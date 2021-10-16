@@ -8,9 +8,9 @@ The main screen with seeded data.
 ![](/InventorySystem/MainScreen.png)
 
 
-The Modify Part Screen.
+The modify part Screen.
 
 ![](/InventorySystem/ModifyScreen.png)
 
-The Add Product screen with data validation.
+The add product screen with data validation.
 ![](/InventorySystem/AddProductScreen_WithValidation.png)
