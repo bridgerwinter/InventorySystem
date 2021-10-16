@@ -4,7 +4,7 @@ An inventory management system that allows the user to create, update, and delet
 
 
 
-The Main Screen with seeded data.
+The main screen with seeded data.
 ![](/InventorySystem/MainScreen.png)
 
 
